@@ -1,0 +1,22 @@
+{
+  "name": "cq5",
+  "version": "1.0.0",
+  "description": "Introduction This is a compilation of assigments for  Lesson 1:     This an introduction to Html      - Students have been intoduced to html stucture     - A few html tags     - they have an assignment to make a web about themselves and why they came to code queen. Lesson 2: Today lead the ladies on git and the power git. - Introduced them to git commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicaiyb/cq5.git"
+  },
+  "author": "monica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicaiyb/cq5/issues"
+  },
+  "homepage": "https://github.com/monicaiyb/cq5#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
